@@ -126,12 +126,8 @@ Changelogs
 
 .. _Detail: ./changelog.md
 
-Online Group
-------------
-
--  QQ群 : 282936295
-
-Run Demo Locally
+---
+在本地运行演示
 ----------------
 
 .. code:: bash
